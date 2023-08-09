@@ -19,6 +19,9 @@ Please feel free to reach out to me via email at oliverliamkelly@gmail.com or on
 
 ### Still Learning
 
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<br />
 
 <!---
 oliverlkelly/oliverlkelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
