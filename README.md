@@ -6,7 +6,7 @@ Picking up interests and skills is my hobby. I have and continue to work in many
 
 I love learning new technologies and expanding the tools available to me. Currently I am a Fullstack Developer looking for growth opportunities, I’m willing to collaborate on anything and everything. I enjoy a challenge and love the push of working with others and having dependencies. I am open to work on a flexible schedule as I am looking to resume my studies in Computer Engineering, Computer Science and Physics at the University of Sydney in 2024.
 
-Please feel free to reach out to me via email at oliverliamkelly@gmail.com or on my various social medias.
+Please feel free to reach out to me via email at contact@oliverliamkelly.com or on my various social medias.
 
 ---
 ### Toolkit
