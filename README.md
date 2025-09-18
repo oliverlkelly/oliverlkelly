@@ -4,7 +4,7 @@
 
 Picking up interests and skills is my hobby. I have and continue to work in many different industries and allowed myself to develop and grow in those roles wherever they took me. I strive to be solutions focused in my projects and strive for continuous improvement and optimisation of my solutions.
 
-I love learning new technologies and expanding the tools available to me. Currently I am a Fullstack Developer looking for growth opportunities, I’m willing to collaborate on anything and everything. I enjoy a challenge and love the push of working with others and having dependencies. I am open to work on a flexible schedule as I am looking to resume my studies in Computer Engineering, Computer Science and Physics at the University of Sydney in 2024.
+I love learning new technologies and expanding the tools available to me. Currently I am a Fullstack Developer looking for growth opportunities, I’m willing to collaborate on anything and everything. I enjoy a challenge and love the push of working with others and having dependencies.
 
 Please feel free to reach out to me via email at contact@oliverliamkelly.com or on my various social medias.
 
