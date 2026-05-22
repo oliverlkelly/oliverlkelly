@@ -20,9 +20,6 @@ open-banking platform.
 - contact@oliverliamkelly.com
 - linkedin.com/in/oliverlkelly
 ```
-
-Drop the icon grid of every technology you've ever touched. It reads as junior and dilutes signal. Three to five things you actually do beats fifteen things you've heard of.
-
 <!---
 oliverlkelly/oliverlkelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
