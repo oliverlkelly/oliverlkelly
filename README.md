@@ -1,6 +1,6 @@
 # Oliver Liam Kelly
 
-Software support engineer and backend developer based in Sydney.
+Software support engineer and backend developer based in Australia.
 Currently building Ruby on Rails applications at Frollo, Australia's
 open-banking platform.
 
