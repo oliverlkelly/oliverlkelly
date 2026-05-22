@@ -1,40 +1,30 @@
 # Oliver Liam Kelly
 
-**'Perpetually Learning'**
+Software support engineer and backend developer based in Sydney.
+Currently building Ruby on Rails applications at Frollo, Australia's
+open-banking platform.
 
-Picking up interests and skills is my hobby. I have and continue to work in many different industries and allowed myself to develop and grow in those roles wherever they took me. I strive to be solutions focused in my projects and strive for continuous improvement and optimisation of my solutions.
+## What I work on
 
-I love learning new technologies and expanding the tools available to me. Currently I am a Fullstack Developer looking for growth opportunities, I’m willing to collaborate on anything and everything. I enjoy a challenge and love the push of working with others and having dependencies.
+- Backend systems, automation, and third-party integrations
+- Ruby on Rails, with a side of .NET and JavaScript/Typescript
+- Customer-facing technical issue resolution at scale
+- IaC (Bicep, Terraform)
 
-Please feel free to reach out to me via email at contact@oliverliamkelly.com or on my various social medias.
+## Currently learning
 
----
-### Toolkit
+- Deeper Rails patterns (concurrency, caching, query optimisation)
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<br />
+## Find me
 
-### Still Learning
+- contact@oliverliamkelly.com
+- linkedin.com/in/oliverlkelly
+```
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<br />
-
-## Current Projects
-
-## 
+Drop the icon grid of every technology you've ever touched. It reads as junior and dilutes signal. Three to five things you actually do beats fifteen things you've heard of.
 
 <!---
 oliverlkelly/oliverlkelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-To-Do:
-Currently using Forrest Knight's icons, I will need to source my own and add Go, MongoDB, PostgreSQL and others to their respective lists.
-Update Current Projects with worked on projects
 
 --->
